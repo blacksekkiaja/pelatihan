@@ -1,0 +1,2 @@
+- ini adalah branch featureB.
+- mencoba nggunakan git stash.
